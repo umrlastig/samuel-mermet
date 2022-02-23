@@ -1,4 +1,4 @@
-# firstname-lastname-template
+# Samuel Mermet
   
 
-Template for LASTIG researchers personal webpage.
+The official LaSTIG homepage of Samuel Mermet.
